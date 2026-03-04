@@ -13,7 +13,7 @@ The input pins are split into two parts, the first 4 are the A side bit inputs a
 
 ## How to test
 
-unknown
+test by inputing 2 4bit numbers and seeing if the output is correct.
 
 ## External hardware
 
